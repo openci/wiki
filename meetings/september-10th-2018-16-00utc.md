@@ -1,7 +1,5 @@
 # September 10th, 2018 @ 16:00UTC
 
-
-
 ## **Agenda**
 
 * [x] Plans with the whitepaper

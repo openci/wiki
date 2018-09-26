@@ -4,7 +4,7 @@ description: >-
   issue on GitHub if something is missing.
 ---
 
-# OpenCI
+# General Information
 
 Our vision is to bring our diverse open source communities together by facilitating the communication between us and our integration, deployment, delivery, and automation. We strive to involve others who share similar concerns as us and want to solve the challenges we all face in a collaborative manner.
 
